@@ -1,5 +1,3 @@
 #!/bin/bash 
 
-echo "Hello GitHub
-
-"
+echo "Hello GitHub"
